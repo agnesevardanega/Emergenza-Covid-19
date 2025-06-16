@@ -1,0 +1,16 @@
+authors:
+- affiliation: University of Teramo
+  family-names: Agnese Vardanega
+cff-version: 1.2.0
+date-released: '2020-12-14'
+doi: 10.5281/zenodo.15675601
+identifiers:
+- type: swh
+  value: swh:1:dir:7851c58b52396ad54d1d86fa02d8562491b41178;origin=https://doi.org/10.5281/zenodo.15675600;visit=swh:1:snp:4819d14fef0c4e822d97ab5c5dd457d576c782a8;anchor=swh:1:rel:6c31f21b94f8acc552e8a73640b42b508a716135;path=agnesevardanega-Emergenza-Covid-19-f63e94b
+license:
+- cc-by-nc-sa-4.0
+message: If you use this software, please cite it using the metadata from this file.
+repository-code: https://github.com/agnesevardanega/Emergenza-Covid-19/tree/v1.0.0
+title: 'Emergenza-Covid-19: Edizione del 2020'
+type: software
+version: v1.0.0
