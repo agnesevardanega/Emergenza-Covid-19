@@ -1,7 +1,7 @@
----
-title: "Deed - Attribuzione-NonCommerciale-CondividiAlloStessoModo 4.0 Internazionale - Creative Commons"
+# Attribuzione-NonCommerciale-CondividiAlloStessoModo 4.0 Internazionale - Creative Commons"
+
 source: "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.it"
----
+
 
 ## Tu sei libero di:
 
