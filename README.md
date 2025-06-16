@@ -8,12 +8,14 @@ Come abbiamo risposto alla crisi? Cosa sta succedendo nelle nostre vite? Ma sopr
 
 Il volume raccoglie gli interventi di Maurizio Napolitano sul *civic hacking*, di Paolo Subioli sull'uso consapevole delle tecnologie, di Gianluigi Tiddia sul turismo, di Antonella Tollis sulla comunicazione istituazionale, e di Pina Manente sul *data journalism*.
 
----
 
-Citare come: A. Vardanega (a c. di), Emergenza Covid-19. Nuove tecnologie e nuove forme di socialità. Teramo. 2020.
+Il libro è disponibile in formato GitHub book al link <https://www.agnesevardanega.eu/books/covid-nt-2020/>, da cui è possibile scaricare gli ebook in ePub e MOBI.
 
-Disponibile al link nel formato GitHub book: <https://www.agnesevardanega.eu/books/covid-nt-2020/>
+## Informazioni bibliografiche
+
+Il libro è pubblicato con licenza CC BY-NC-SA 4.0, ed è disponibile gratuitamente in formato digitale negli store online.
 
 ISBN: 979-1220241588
 ASIN: B08TQH7GZY
 
+Citare come: A. Vardanega (a c. di), Emergenza Covid-19. Nuove tecnologie e nuove forme di socialità. Teramo. 2020.
