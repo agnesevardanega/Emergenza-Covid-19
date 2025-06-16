@@ -1,0 +1,153 @@
+/* --- PAGINA --- */
+/* --- TITOLI --- */
+/*h1.header-section-number {
+  display: block;
+  padding-left:0.5em;
+  border-bottom-color: #808080;
+  text-align: right;  
+  border-bottom-style: solid;
+    }*/
+h1 {
+  margin-bottom: 1em;
+  border-bottom-color: #808080;
+  border-bottom-style: solid;
+  text-align: left;
+  border-bottom-width: 1px;
+  page-break-after: avoid ;
+}
+h2 {
+  margin-top: 2em;
+  margin-bottom: 1em;
+  page-break-after: avoid ;
+  text-align: left;
+  font-weight: bold;
+}
+h3 {
+  margin-top: 1em;
+  margin-bottom: 1em;
+  line-height: normal;
+  page-break-after: avoid ;
+  /*  font-size: 1.00em; */
+  text-align: left;
+  /*font-weight:bold;*/
+  font-style: italic;
+}
+.subtitle {
+  font-weight: bold;
+  margin-bottom: 2em;
+}
+.author {
+  margin-bottom: 1em;
+}
+.date {
+  font-size: 90%;
+  font-style: italic;
+}
+/* --- STILI DI TESTO --- */
+p {
+  margin: 0 0 0.5em 0;
+  text-align: justify;
+  text-indent: 0;
+}
+ul {
+  margin: 1em 0 1em 0;
+}
+code {
+  font-size: 90%;
+  font-family: "Lucida Typewriter", "Courier New", monospace;
+}
+pre {
+  white-space: pre-wrap;
+  margin: 0.5em 0 0.5em 0;
+  display: block;
+  padding: 2px 0 1px 2px;
+  border-color: #efefef;
+  border-width: 1px;
+  border-style: solid;
+  /*background-color: #efefef;*/
+}
+.sourceCode {
+  /*  text-indent:0;
+  white-space: pre-wrap;
+  margin: 5px 0 5px 0;
+  display: block;
+  padding:1px 0 1px 3px;*/
+  background-color: #f9f9f9;
+}
+code.sourceCode {
+  font-size: 80%;
+}
+pre code {
+  background-color: transparent;
+  font-size: 80%;
+}
+blockquote {
+  display: block;
+  margin-top: 1em;
+  margin-bottom: 1em;
+  margin-right: 0;
+  font-size: 95%;
+  font-style: italic;
+  color: #808080;
+  line-height: 1.15;
+}
+/* --- NOTE --- */
+a.footnote-ref {
+  vertical-align: super;
+  font-size: 0.8em;
+  position: relative;
+  margin-left: 0.2em;
+}
+.footnotes {
+  font-size: 0.9em;
+  display: block;
+}
+/* --- IMMAGINI --- */
+figcaption p {
+  font-size: 95%;
+  font-style: italic;
+  color: #808080 ;
+  text-align: left;
+  page-break-before: avoid ;
+}
+figure {
+  margin: 2em auto 2em auto;
+}
+img {
+  display: block;
+  margin: auto;
+}
+/* --- TABELLE --- */
+table {
+  font-size: 90%;
+  min-width: 60%;
+  margin: 2em auto 2em auto;
+}
+caption {
+  font-size: 95%;
+  font-style: italic;
+  color: #808080 ;
+  text-align: left ;
+  margin-bottom: 0.5em;
+  page-break-after: avoid ;
+}
+th, td {
+  padding: 2px 5px 2px 5px;
+  border-bottom-color: #999;
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  vertical-align: top;
+}
+/* --- CLASSI PERSONALI --- */
+.bio p {
+  font-size: 90% ;
+  font-style: italic;
+}
+.bio {
+  margin-top: 2em;
+  margin-bottom: 6em;
+}
+.bib {
+  margin-left: 1.5em;
+  text-indent: -1.5em;
+}

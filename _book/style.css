@@ -1,0 +1,124 @@
+body, p, ul, li, table {
+  font-family: "Open Sans", Sans-Serif;
+}
+
+
+.active>a {color: #4768cc !important;
+  font-weight: bold;
+}
+
+a:hover {color: #4768cc !important;
+text-decoration: none !important;}
+
+a.uri {color: #4768cc !important;
+display:inline-block;
+/*border-bottom: 3px solid #e6ecff;*/
+}
+
+.external {color: #4768cc !important;
+display:inline-block;}
+
+a.uri:hover {
+  color: 'black' !important;
+  background-color: #e6ecff  !important;
+  text-decoration: none !important;
+}
+
+a.uri:visited {
+  color: #364e99 !important;
+  text-decoration: none !important;
+}
+
+
+/*p code {
+  white-space: inherit;
+}
+pre {
+  word-break: normal;
+  word-wrap: normal;
+}
+pre code {
+  white-space: inherit;
+}*/
+
+h1 .header-section-number {
+  display: block;
+  border-bottom: solid 3px;
+}
+
+
+
+h1, h2, h3 {
+  font-family: "Bitter", serif;
+  line-height: 1.5em;
+}
+
+.riquadro {
+  display: block;
+  border: #ddd 2px solid;
+  padding: 10px;
+  font-size: 90%;
+}
+
+.bef_aft {
+  font-size: 90%;
+}
+
+
+img {
+ display: block;
+ margin: auto;
+}
+
+blockquote {
+  display: block;
+  padding: 10px;
+ font-size: 95%;
+  font-style: italic;
+
+  
+}
+
+
+
+.bio p {
+  font-size: 90% !important;
+  font-style: italic;
+
+}
+
+.bio {
+  margin-top: 2em;
+  margin-bottom: 6em;
+}
+
+figure {
+  margin-top: 1.5em;
+  margin-bottom: 0.5em;
+  
+}
+
+figcaption {
+  font-size: 90% !important;
+  font-style: italic;
+  color: #808080;
+  margin-bottom: 1.5em;
+text-align:left !important;
+}
+
+caption {
+ text-align:left !important;
+  font-style: italic;
+  color: #808080;
+  margin-bottom: 1.5em;
+
+}
+
+
+
+table{
+  margin-bottom: 1.5em;
+  margin-top: 1.5em;
+    font-size: 90%;
+
+}

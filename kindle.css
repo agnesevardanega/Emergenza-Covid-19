@@ -1,0 +1,359 @@
+.author {
+    display: block;
+    text-align: justify;
+    text-indent: 0;
+    margin: 0 0 0.5em
+    }
+.calibre {
+    display: block;
+    font-family: "Times New Roman", "Times", serif;
+    font-size: 1em;
+    padding-left: 0;
+    padding-right: 0;
+    margin: 0 5pt
+    }
+.calibre1 {
+    display: block;
+    font-family: "Helvetica", "Arial", sans-serif;
+    font-size: 1.125em;
+    font-weight: bold;
+    line-height: 1.2;
+    page-break-after: avoid;
+    text-align: left;
+    margin: 2em 0 1em
+    }
+.calibre2 {
+    display: block;
+    list-style-type: disc;
+    margin: 1em 0
+    }
+.calibre3 {
+    display: list-item
+    }
+.calibre4 {
+    font-style: italic
+    }
+.calibre5 {
+    display: block;
+    list-style-type: circle;
+    margin: 1em 0
+    }
+.calibre6 {
+    height: auto;
+    width: 98%
+    }
+.calibre7 {
+    display: block;
+    font-size: 90%;
+    font-style: italic;
+    margin: 1em 0 1em 1em
+    }
+.calibre8 {
+    display: block
+    }
+.calibre9 {
+    font-weight: bold
+    }
+.calibre10 {
+    text-decoration: underline
+    }
+.calibre11 {
+    background-color: #efefef;
+    display: block;
+    font-family: monospace;
+    white-space: pre-wrap;
+    padding: 2px 0 1px 2px;
+    margin: 0.5em 0
+    }
+.calibre12 {
+    background-color: transparent;
+    font-family: "Lucida Typewriter", "Courier New", monospace;
+    font-size: 80%;
+    white-space: pre-wrap
+    }
+.calibre13 {
+    font-family: "Lucida Typewriter", "Courier New", monospace;
+    font-size: 90%;
+    white-space: pre-wrap
+    }
+.calibre14 {
+    height: auto;
+    width: 80%
+    }
+.calibre15 {
+    border-collapse: separate;
+    border-spacing: 2px;
+    display: table;
+    font-size: 80%;
+    min-width: 60%;
+    text-indent: 0;
+    margin: 2em auto
+    }
+.calibre16 {
+    display: table-caption;
+    font-style: italic;
+    page-break-after: avoid;
+    font-size: 110%;
+    text-align: left
+    }
+.calibre17 {
+    display: table-column-group
+    }
+.calibre18 {
+    display: table-column;
+    width: 9%
+    }
+.calibre19 {
+    display: table-column;
+    width: 41%
+    }
+.calibre20 {
+    display: table-column;
+    width: 48%
+    }
+.calibre21 {
+    display: table-header-group;
+    vertical-align: middle
+    }
+.calibre22 {
+    display: table-cell;
+    font-weight: bold;
+    text-align: left;
+    vertical-align: top;
+    padding: 2px 5px;
+    border-bottom: #999 solid 1px
+    }
+.calibre23 {
+    display: table-row-group;
+    vertical-align: middle
+    }
+.calibre24 {
+    display: table-cell;
+    text-align: left;
+    vertical-align: top;
+    padding: 2px 5px;
+    border-bottom: #999 solid 1px
+    }
+.calibre25 {
+    font-family: "Lucida Typewriter", "Courier New", monospace;
+    font-size: 1em;
+    white-space: pre-wrap
+    }
+.calibre26 {
+    display: block;
+    font-family: "Helvetica", "Arial", sans-serif;
+    font-size: 1em;
+    font-style: italic;
+    font-weight: bold;
+    line-height: normal;
+    page-break-after: avoid;
+    text-align: left;
+    margin: 1em 0
+    }
+.calibre27 {
+    height: auto;
+    width: 60%
+    }
+.calibre28 {
+    display: table-cell;
+    font-weight: bold;
+    text-align: right;
+    vertical-align: top;
+    padding: 2px 5px;
+    border-bottom: #999 solid 1px
+    }
+.calibre29 {
+    display: table-cell;
+    text-align: right;
+    vertical-align: top;
+    padding: 2px 5px;
+    border-bottom: #999 solid 1px
+    }
+.calibre30 {
+    height: auto;
+    width: 70%
+    }
+.calibre31 {
+    color: gray;
+    display: block;
+    height: 2px;
+    margin: 0.5em auto;
+    border: currentColor inset 1px
+    }
+.calibre32 {
+    display: block;
+    list-style-type: decimal;
+    margin: 1em 0
+    }
+.calibre33 {
+    height: auto;
+    width: 55%
+    }
+.calibre34 {
+    display: table-cell;
+    font-weight: bold;
+    text-align: center;
+    vertical-align: top;
+    padding: 2px 5px;
+    border-bottom: #999 solid 1px
+    }
+.calibre35 {
+    display: table-cell;
+    text-align: center;
+    vertical-align: top;
+    padding: 2px 5px;
+    border-bottom: #999 solid 1px
+    }
+.calibre36 {
+    display: block;
+    font-family: "Helvetica", "Arial", sans-serif;
+    font-size: 1em;
+    font-style: italic;
+    font-weight: normal;
+    line-height: normal;
+    page-break-after: avoid;
+    text-align: left;
+    margin: 1em 0
+    }
+.calibre37 {
+    display: table-column;
+    width: 32%
+    }
+.calibre38 {
+    display: table-column;
+    width: 21%
+    }
+.calibre39 {
+    display: table-column;
+    width: 28%
+    }
+.calibre40 {
+    display: table-column;
+    width: 17%
+    }
+.caption {
+    display: block;
+    font-size: 90%;
+    font-style: italic;
+    padding-top: 0.2em;
+    page-break-before: avoid;
+    text-align: left;
+    text-indent: 0;
+    margin: 0.5em 0;
+    border-top: #808080 solid 1px
+    }
+.co {
+    color: #60a0b0;
+    font-style: italic
+    }
+.dt {
+    color: #902000
+    }
+.dv {
+    color: #40a070
+    }
+.er {
+    color: #f00;
+    font-weight: bold
+    }
+.figure {
+    display: block;
+    margin-bottom: 2em;
+    margin-top: 2em;
+    padding-bottom: 2px;
+    page-break-after: avoid;
+    text-align: center
+    }
+.footnote-ref {
+    font-size: 0.75em;
+    margin-left: 0.2em;
+    position: relative;
+    vertical-align: super
+    }
+.footnotes {
+    display: block;
+    font-size: 90%
+    }
+.header {
+    display: table-row;
+    vertical-align: inherit
+    }
+.header-section-number {
+    line-height: 1.2
+    }
+.kw {
+    color: #007020;
+    font-weight: bold
+    }
+.op {
+    color: #666
+    }
+.ot {
+    color: #007020
+    }
+.references {
+    display: block;
+    font-size: 90%;
+    margin-left: 1em;
+    text-indent: -1em
+    }
+.sourcecode {
+    background-color: #efefef;
+    display: block;
+    overflow: auto;
+    margin: 1em 0
+    }
+.sourcecode1 {
+    background-color: #efefef;
+    display: block;
+    font-family: monospace;
+    overflow: visible;
+    white-space: pre-wrap;
+    padding: 2px 0 1px 2px;
+    margin: 0
+    }
+.sourcecode2 {
+    background-color: #efefef;
+    font-family: "Lucida Typewriter", "Courier New", monospace;
+    font-size: 80%;
+    overflow: visible;
+    position: relative;
+    white-space: pre
+    }
+.sourceline {
+    color: inherit;
+    display: inline-block;
+    line-height: 1.25;
+    pointer-events: none;
+    text-decoration: inherit
+    }
+.sourceline1 {
+    color: inherit;
+    display: inline-block;
+    height: 1.2em;
+    line-height: 1.25;
+    pointer-events: none;
+    text-decoration: inherit
+    }
+.st {
+    color: #4070a0
+    }
+.title {
+    display: block;
+    font-family: "Helvetica", "Arial", sans-serif;
+    font-size: 2em;
+    font-weight: bold;
+    line-height: 1.2;
+    page-break-after: avoid;
+    text-align: left;
+    margin: 0.67em 0 6em;
+    border-bottom: #808080 solid 1px
+    }
+.toc {
+    display: block;
+    list-style-type: decimal;
+    margin: 0
+    }
+.pcalibre:before {
+    text-decoration: underline
+    }

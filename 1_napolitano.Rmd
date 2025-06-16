@@ -1,0 +1,134 @@
+# Il contributo del *civic hacking* all'emergenza Covid-19 in Italia {#napo}
+
+Maurizio Napolitano
+
+::: {.bio}
+Coordinatore dell'unità Digital Commons Lab del centro ICT della Fondazione Bruno Kessler. Si occupa di open source, openstreetmap e opendata (napolitano\@fbk.eu)
+:::
+
+L'emergenza Covid-19 ha messo in evidenza l'importanza del digitale: in brevissimo tempo si è visto l'attivarsi di tutta una serie di iniziative governative e non per fornire soluzioni al lavoro da remoto.
+
+Il Ministero per l'Innovazione tecnologica e la Digitalizzazione, ad esempio, ha creato il portale "Solidarietà digitale" ([solidarietadigitale.agid.gov.it](https://solidarietadigitale.agid.gov.it/){.uri}) che ha velocemente raccolto le iniziative di aziende pronte a fornire servizi: gli operatori di telefonia hanno offerto traffico dati gratuito, grandi aziende con soluzioni di videoconferenza hanno offerto gratuitamente i loro strumenti, aziende di vendita di prodotti online per l'*entertainment* hanno dato accesso ai loro cataloghi, ed altro ancora.
+
+Il tema di creare socialità e di rimanere connessi è stato al centro di molte iniziative, molte delle quali grazie al contributo volontario dei cittadini.
+
+## Cosa si intende con *civic hacking*
+
+Il termine "*civic hacking*", in chi non lo conosce, desta sempre molta curiosità in quanto sembra mettere assieme due termini che, per ragioni storiche, sembrano agli opposti: il senso civico ("*civic*") e la violazione dei sistema informativi ("*hacking*").
+
+Pertanto, ai più, suona come una attitudine a violare i sistemi informativi a fin di bene. Violare comunque rimane un termine negativo che, anche se utilizzato per fini benevoli, comunque crea un danno.
+
+Il termine "*hacking*" nasce, agli inizi del XX secolo presso i laboratori del MIT dove ricercatori e studenti investigavano, curiosavano, intaccavano (*to hack*) i sistemi informativi del tempo, scoprendone il loro funzionamento, studiandolo e rendendolo spesso più efficiente. L'*hacking* diventava così una attitudine che ha dato vita poi ad una sua etica.
+
+Gli *hacker* sono quindi persone curiose che condividono la conoscenza ed offrono il loro talento nel risolvere problemi. Il termine opposto è quello di *cracker* (*to crack* = rompere) che invece, usano questa conoscenza per creare danni.
+
+Il *civic hacking* recupera l'attitudine *hacker* e la mette al servizio dell'interesse civico.
+
+Cercando online si trovano diverse definizioni. Ecco qui quelle più note:
+
+-   "Un approccio creativo, spesso tecnologico, per risolvere problemi di interesse civico"
+-   "Cittadini che sviluppano le proprie applicazioni che danno alle persone benefici tangibili negli aspetti civici e comunitari della loro vita"
+-   "Collaborare con gli altri per creare, costruire e inventare soluzioni *open source* utilizzando dati, codice e tecnologia rilasciati pubblicamente per risolvere le sfide rilevanti per i nostri quartieri, le nostre città, le nostre regioni e il nostro"
+
+Le parole chiave di queste definizioni sono: creatività, uso o sviluppo tecnologie, risolvere problemi, interesse civico, collaborazione, cittadini, benefici tangibili e raccogliere e (ri)usare dati. Tutta una serie di attività che inquadrano bene a cosa il *civic hacking* si rivolga.
+
+Ma chi sono gli attori di questa attività? Mentre quando parliamo di *hacker*, l'immaginario collettivo è rivolto verso gli esperti di informatica, nel *civic hacking* il panorama diventa molto più ampio.
+
+Nella seconda edizione di *Open Government Data: The Book*, Joshua Tauberer (2014) descrive i *civic* *hacker* in questo modo
+
+> I civic *hacker* possono essere programmatori, designer, data scientist, bravi comunicatori, organizzatori civici, imprenditori, dipendenti statali e chiunque abbia voglia di sporcarsi le mani per risolvere problemi.
+
+Questa definizione mette in evidenza il desiderio di senso civico ( = "voglia di sporcarsi le mani per risolvere il problema") offrendo il proprio talento (= "programmatori, *data scientist*, bravi comunicatori, organizzatori civici, imprenditori, dipendenti statali") in qualsiasi settore ( = "chiunque abbia voglia ...").
+
+Non è un caso che il termine abbia preso maggiore enfasi intorno al tema dell'*open government* che, a sua volta, si caratterizza per le parole chiave trasparenza, collaborazione e partecipazione, in cui i *civic hacker* si riconoscono.
+
+## Esempi di *civic hacking*
+
+In Italia il movimento del *civic hacking* è diffuso, molto collegato al tema *open data* (dati aperti) e può contare su progetti piccoli e grandi con diverse ricadute sociali.
+
+Uno dei progetti di maggiore successo è quello di Open Parlamento --- creato dall'associazione Open Polis ([www.openpolis.it](https://www.openpolis.it){.uri}). Il progetto raccoglie tutti i dati che vengono prodotti dai politici del parlamento italiano nello svolgere le loro funzioni: presenze/assenze, voti, proposte, e altro. Dal sito chiunque può vedere la scheda del singolo politico accedendo in maniera molto semplice alla rappresentazione di questi dati, fare confronti con altri, e vedere la classifica di produttività parlamentare ed altro ancora. Si tratta di una applicazione che nasce dall'esigenza di creare maggiore trasparenza a partire dai dati disponibili.
+
+Molti dei progetti di *civic hacking* sono circoscritti a piccoli episodi o casi molto specifici legati a singole città. Tutti nascono da forti esigenze locali che portano poi a creare soluzioni tecnologiche che possono essere riutilizzate da terzi.
+
+Uno di questi esempi è la piattaforma Ushahidi ([www.ushahidi.com](https://www.ushahidi.com/){.uri}): nata nel 2007 come strumento per allertare, attraverso l'inserimento di un punto su una mappa, gli atti di violenza che si verificavano in Kenya a seguito delle elezioni politiche. La piattaforma ottenne un grandissimo successo: le violenze sparirono velocemente proprio perché sempre sotto osservazione e gli scenari di riuso si incrementarono velocemente in particolare nel settore degli aiuti umanitari.
+
+Quella di Ushahidi è una storia di vero e proprio *civic hacking*: c'era una necessità, una idea semplice ed efficace, ed una comunità pronta a partecipare, e da qui è nata una piattaforma tecnologica riusabile da chiunque e adattabile ad altri scenari.
+
+Nel tempo si è visto un numero sempre più crescente di soluzioni tecnologiche per la segnalazione georiferita di problema, e molte sono entrate anche nel quotidiano degli uffici di relazioni con il pubblico delle varie pubbliche amministrazioni.
+
+Questo è stato uno dei passaggi che ha portato alla nascita del concetto di tecnologie civiche: tecnologie che servono a favorire il dialogo fra pubblico e privato, non solo nella gestione amministrativa del territorio ma anche nella creazione di nuovi servizi e modelli di business.
+
+## Le iniziative di solidarietà digitale durante l'emergenza Covid-19
+
+Alcune realtà più locali, come il parco tecnologico NOI Park della provincia autonoma di Bolzano, ha creato uno "paese" online dal nome *San Virtuale* ([virtual.noi.bz.it](https://virtual.noi.bz.it/){.uri}) con una agenda di attività (fitness a casa, corsi online, supporto tecnico ecc.).
+
+Nella comunità *hacker*, a sostegno del software libero, è nato il progetto "io resto a casa" ([iorestoacasa.work](https://iorestoacasa.work/){.uri}). Un piccolo gruppo di informatici, diventato poi sempre più grande (circa un centinaio), ha messo a disposizione un sistema di videochiamate di gruppo, private e gratuite, attraverso il software *open source* Jitsi ([meet.jit.si](https://meet.jit.si/){.uri}), una piattaforma simile a Google Meet che permette di creare facilmente delle conference room online. L'iniziativa è cresciuta nel tempo fino ad essere stata adottata anche dal GARR (la rete italiana dell'Istruzione e della Ricerca).
+
+### L'esempio di Wuhan2020 e covid19italia.help
+
+Il periodo di lockdown del Covid-19 ha cambiato radicalmente il modo di vivere di tutti noi ed ha avvicinato molte persone al digitale. La necessità di rimanere informati, in particolare, è stata al centro di tutto.
+
+Quello che abbiamo vissuto in Italia è stato vissuto, prima che da noi, in Cina. Molte delle dinamiche che abbiamo vissuto (la solitudine, la necessità di uscire, l'attività motoria in casa, la produzione del pane ecc.) hanno caratterizzato le esperienze anche la vita dei cittadini cinesi.
+
+Wuhan (11 milioni di abitanti) è stata la città più colpita con un lockdown che ha durato a lungo e con restrizioni molto alte. In quel contesto, un gruppo di *civic hacker* identificatosi con il nome di "Wuhan2020" ha creato una piattaforma di informazioni utili aggregando dati da sorgenti diverse.
+
+Queste le parole con cui la comunità si descrive:
+
+> Ciò che stiamo facendo è creare un servizio informazioni, aggiornato in tempo reale, relativo ad ospedali e supporto medico, attività produttive, servizi di approvvigionamento e molto altro.
+>
+> Allo stesso tempo, stiamo reclutando tutti coloro che desiderano dare un contributo alla campagna contro il coronavirus, in modo che tutte le persone che possiedono le adeguate competenze possano contribuire al lavoro di sviluppo nell'ambito delle tematiche ad esse pertinenti e quindi, in accordo con la cultura della comunità *open source*, al raggiungimento del successo attraverso un approccio di cooperazione autogestita.
+
+E così sul sito di Wuhan2020 ([community.wuhan2020.org.cn/it-it](https://community.wuhan2020.org.cn/it-it/){.uri}) si trovano infografiche e tabelle riguardanti:
+
+-   informazioni sull'epidemia
+-   situazione degli ospedali
+-   servizi attivi per la logistica (trasporto merci)
+-   associazioni / enti di supporto a cui fare donazioni
+-   supporto informativo gratuito sul tema
+-   hotel adibiti a fornire spazio per la quarantena
+
+Al progetto partecipano oltre 3.000 persone provenienti da ogni parte del mondo.
+
+Questa esperienza è arrivata anche alla comunità dei *civic hacker*s italiani del progetto "Terremoto Centro Italia", nato a seguito del terremoto del centro italia del 2016/2017. Una comunità di *civic hacker*s con diversi talenti ha dato vita alla piattaforma terremotocentroitalia.info proponendosi come un "semplice" raccoglitore di informazioni utili a chi stava vivendo quel dramma: uno spazio dove aggregare in un solo posto le informazioni su le delibere comunali, favorire il mutuo aiuto, verificare notizie, indicare associazioni di raccolta fondi ecc.
+
+Sulla falsa riga di questa esperienza e ispirati dal lavoro fatto dalla comunità di Wuhan2020, la comunità italiana ha creato covid19italia.help. In brevissimo tempo, si è formato un gruppo di oltre 50 persone --- fra sviluppatori, esperti di comunicazione, funzionari pubblici, e ... chiunque avesse voglia di sporcarsi le mani --- per raccogliere informazioni, centralizzarle, mettere insieme tutte le iniziative che in Italia stavano nascendo, creare una redazione di verifica delle notizie e molto altro ancora.
+
+L'iniziativa è riuscita far parlare tanto di sé, al punto che anche in Portogallo e in Grecia gruppi di *civic hacker* hanno chiesto di poter riutilizzare la stessa piattaforma per attivare una comunità nei rispettivi Stati.
+
+### Il contributo del *civic hacking* alla liberazione dei dati della Protezione Civile
+
+Nel periodo in cui il Covid-19 aumentava la sua diffusione in Italia, erano in molti a chiedersi quotidianamente cosa stesse accadendo: la necessità di accedere ai dati era diventata sempre più primaria. Nelle prime settimane dell'emergenza, il Dipartimento della Protezione Civile, pubblicava tabelle in file in PDF (anche di difficile lettura), non particolarmente agili per rielaborazioni indipendenti dei dati.
+
+Così, ad inizio marzo 2020, l'associazione onData ([ondata.it](https://ondata.it){.uri}), nata con lo scopo di "promuovere l'apertura dei dati pubblici per renderli accessibili a tutti", e coordinata da Andrea Borruso --- uno dei *civic hacker*s più noti in Italia --- ha creato strumenti automatizzati che raccoglievano i dati dai vari PDF per trasformarli e renderli più facili da manipolare con strumenti di analisi come semplici fogli di calcolo (es. MS Excel). Questa azione ha trovato subito l'interesse di molti, e, da lì a pochi giorni, lo stesso Dipartimento di Protezione Civile ha cominciato a pubblicare i dati in formato aperto e riusabile dalle macchine. Inutile nascondere che il contributo dato da Andrea Borruso è stato proprio il volano di quella apertura.
+
+Da quel momento, si sono moltiplicate le applicazioni che mostravano l'andamento della diffusione del Covid-19 e delle sue conseguenze, così come è aumentata in maniera esponenziale la richiesta di dati sempre più dettagliati (quelli della Protezione Civile si fermano a livello di province).
+
+### L'esempio di OpenStreetMap e il riuso dei dati
+
+Fra i tanti strumenti oggi disponibili grazie all'impegno della comunità di *civic hacker*, ricordiamo il progetto OpenStreetMap ([www.openstreetmap.org](https://www.openstreetmap.org/){.uri}), ispirato a Wikipedia, e che mette a disposizione dati georiferiti attraverso cui poter costruire anche la mappa del mondo.
+
+I dati raccolti sono a disposizione di chiunque ne voglia fare riuso anche per altri progetti, e le ricadute di queste sono infinite. D'altra parte, ciascuno di noi può contribuire al progetto e donare il suo tempo nel creare questo bene comune.
+
+OpenStreetMap genera da tantissimo tempo un ecosistema importante di prodotti di ogni genere: mappe digitali o cartacee tematiche (estate, inverno, di trasporto, marittime, artistiche ...), strumenti di navigazione assistita per i più disparati veicoli, mappe per stampanti 3D in aiuto di ipovedenti, borse, tovaglie, gadget vari ... e tantissime tantissime storie di successo per gli aiuti umanitari.
+
+Nel periodo di lockdown, ciascuna città italiana si è trovata ad affrontare l'emergenza a suo modo. Fra le iniziative di maggiore successo vanno sicuramente annoverate quelle volte ad informare sugli esercizi commerciali in grado di fornire consegna a domicilio di beni di prima necessità. Numerose sono state le iniziative in questo senso, alcune a livello locale, altre a livello nazionale (molte di queste ospitate sul sito di Solidarietà Digitale). La necessità principale era quella di creare una mappa con le posizioni di questi negozi e i tipi di prodotti offerti.
+
+Durante il lockdown la comunità italiana di OpenStreetMap si è impegnata a creare strumenti di facilitazione della raccolta dei dati sui negozi e a creare semplici mappe per visualizzarli, producendo validi risultati. Il valore aggiunto è stato anche quello di avere anche arricchito la banca dati di OpenStreetMap e, di conseguenza, a migliorare i tantissimi prodotti nati intorno al progetto.
+
+## Conclusioni
+
+In conclusione il *civic hacking* non è altro che una attitudine al mettere il servizio i propri talenti attraverso il digitale. Si tratta di un gioco di squadra importante. Chiunque di noi può esserlo semplicemente mettendo in condivisione le soluzioni che scopre.
+
+Ogni giorno ed ogni momento è valido per il *civic hacking*. Il pubblico ha il ruolo importante di abilitarlo semplicemente mettendo a disposizione dati..
+
+Può essere visto come una attività divertente, perchè stimola la curiosità esattamente con accade(va) nei laboratori del MIT.
+
+La sua forza è che, quando accade una emergenza, è in grado di dare grandi contributi anche con la semplice raccolta di dati.
+
+C'è spazio per tutti: si tratta solo di essere generosi e collaborativi.
+
+------------------------------------------------------------------------
+
+Cita come:
+
+Napolitano M. (2020), Il contributo del civic hacking all'emergenza Covid-19 in Italia. In A. Vardanega (a c. di), *Emergenza Covid-19. Nuove tecnologie e nuove forme di socialità*. Teramo. 2020.

@@ -1,0 +1,11 @@
+book_filename: "emergenza_covid"
+delete_merged_file: true
+# before_chapter_script: "before.R"
+
+language:
+  ui:
+    chapter_name: "Capitolo "
+    appendix_name: "Appendice"
+  label:
+    fig: "Figura "
+    tab: "Tabella "

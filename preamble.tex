@@ -1,0 +1,36 @@
+\usepackage{booktabs}
+
+\usepackage{fontspec}
+\usepackage[Bjornstrup]{fncychap}
+\usepackage{listings}
+\usepackage{float}
+\setlength{\headheight}{13.6pt}
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+
+\usepackage{graphicx}
+
+
+
+\graphicspath{ {./images/} }
+
+% \usepackage[
+%     type={CC},
+%     modifier={by-nc-sa},
+%     version={4.0},
+% ]{doclicense}
+
+
+\lstset{
+  breaklines=true
+  basicstyle=\ttfamily
+}
+\renewcommand{\chaptermark}[1]{\markboth{#1}{}}
+\renewcommand{\thesection}{\arabic{section}}
+\fancyhf{}
+\setcounter{secnumdepth}{3}
+
+
+\frontmatter
+
+

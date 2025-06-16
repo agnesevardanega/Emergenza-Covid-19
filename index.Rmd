@@ -1,0 +1,78 @@
+---
+title: "Emergenza Covid-19"
+subtitle: "Nuove tecnologie e nuove forme di socialità"
+author: "a cura di Agnese Vardanega"
+date: "dicembre 2020"
+description: "Nuove tecnologie e nuove forme di socialità, nella prima ondata della pandemia da Sars-CoV-2. Webinar di studio svolti fra aprile e maggio 2020 presso l'Università degli Studi di Teramo"
+
+# apple-touch-icon: "images/log-cov.png"
+# 
+# favicon: "images/log-cov.ico"
+
+
+site: bookdown::bookdown_site
+documentclass: book
+link-citations: yes
+
+# bibliography:
+# - biblio.bib
+# - packages.bib
+# biblio-style: apalike
+lang: it
+# fontsize: 11pt
+# links-as-notes: yes
+# papersize: a5
+# geometry: "inner=1.5cm, outer= 1.5cm, top=2.3cm, bottom=1.7cm"
+# mainfont: 'Times New Roman'
+# sansfont: 'Open Sans'
+# monofont: 'Lucida Console'
+sansfontoptions: 'Scale = 0.95'
+monofontoptions: 'Scale = 0.80'
+---
+
+```{r setup, include=FALSE}
+options(width = 45)
+
+knitr::opts_chunk$set(prompt=F, comment = "",
+                      message = F, warning = F, 
+                      collapse = T, echo = F,
+                      fig.align = 'center', dpi = 300
+                      )
+
+knitr::opts_knit$set(global.par = TRUE)
+```
+
+```{r include=FALSE}
+library(extrafont)
+# automatically create a bib database for R packages
+knitr::write_bib(c(
+  .packages(), 'bookdown', 'knitr', 'rmarkdown'
+  ), 
+  'packages.bib')
+```
+
+<figure>
+
+<img src="images/Copertina_2.png" width="300px" align="center" style="border:1px #ccc solid"/>
+
+</figure>
+
+Webinar di studio svolti fra aprile e maggio 2020 nell'ambito del corso di *Sociologia e ricerca sociale applicata*, Università degli Studi di Teramo, Facoltà di Scienze Politiche.
+
+<br /><br /><br />
+
+<figure>
+
+<a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.it" title="Licenza"><img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc-sa.eu.png" alt="Licenza cc by na" width="80px"/></a>
+
+</figure>
+
+[La **licenza** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.it "creative commons") vale per il libro nella sua interezza, che non può dunque essere modificato e/o messo in vendita, in tutto o in parte. I capitoli sono proprietà degli autori. I testi possono essere citati, e le informazioni in essi contenute riutilizzate, citando autore e volume.]{style="font-size:smaller;"}
+
+[L'**immagine di copertina** è la locandina dell'evento, realizzata dalla dr.ssa Lucia Fiore, dell'[Ufficio stampa e produzioni radiotelevisive](https://www.unite.it/UniTE/Ufficio_stampa_e_produzioni_radiotelevisive "UniTe") dell'Università di Teramo.]{style="font-size:smaller;"}
+
+[Il [**logo**](https://www.unite.it/UniTE/Il_Logo "logo UniTe") è proprietà dell'Università degli Studi di Teramo.]{style="font-size:smaller;"}
+
+[**Privacy** queste pagine non fanno uso di cookies e non raccolgono dati di navigazione]{style="font-size:smaller;"}
+
+<!-- \mainmatter -->

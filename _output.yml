@@ -1,0 +1,29 @@
+
+bookdown::gitbook:
+  css: style.css
+  split_by: "rmd"
+  config:
+    toc:
+      before: |
+        <li class="bef_aft"><a href="./">Emergenza Covid-19</a></li>
+
+      after: |
+        
+        <li class="bef_aft"><a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.it" title="Licenza"><img
+            src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc-sa.eu.png" 
+            width="80" target = "_blank" 
+            alt="Licenza cc by na"/></a></li>
+        <li class="bef_aft" style = "font-size: small"><a target="_blank" href="https://github.com/rstudio/bookdown" target="blank">Published with bookdown</a></li>
+
+
+  includes:
+    in_header: ['in_header_2.html', 'target.html']
+
+bookdown::epub_book: 
+  stylesheet: style_ep.css
+
+
+
+
+
+
