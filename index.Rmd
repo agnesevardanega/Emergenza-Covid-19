@@ -6,9 +6,7 @@ date: "dicembre 2020"
 description: "Nuove tecnologie e nuove forme di socialità, nella prima ondata della pandemia da Sars-CoV-2. Webinar di studio svolti fra aprile e maggio 2020 presso l'Università degli Studi di Teramo"
 
 # apple-touch-icon: "images/log-cov.png"
-# 
 # favicon: "images/log-cov.ico"
-
 
 site: bookdown::bookdown_site
 documentclass: book
